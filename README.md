@@ -4,9 +4,11 @@ Workshop example repository for the March 2024 series
 #this is header one
 ## this is header 2
 
-** the bold style **
-* italic style
-twitter](www.twitter.com)
+** The bold style **
+
+* italic style*
+  
+[twitter](www.twitter.com)
 
 
 
@@ -19,7 +21,7 @@ What is your favorite animal?
 - Panda
 - Autobot
 - giraffe
--
+- dog
 -
 -
 -
