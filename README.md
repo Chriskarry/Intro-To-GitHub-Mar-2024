@@ -8,7 +8,7 @@ Workshop example repository for the March 2024 series
 
 * italic style*
   
-[twitter](www.twitter.com)
+[Twitter](https//www.twitter.com)
 
 
 
